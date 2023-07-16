@@ -20,7 +20,7 @@ spec:
           image: quay.io/arief_amarullah/qod-api:latest
           ports:
             - name: http
-              containerPort: 3000
+              containerPort: 8080
               protocol: TCP
           env:
             - name: DB_HOST
