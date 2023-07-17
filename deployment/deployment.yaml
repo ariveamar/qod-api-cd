@@ -24,7 +24,7 @@ spec:
               protocol: TCP
           env:
             - name: DB_HOST
-              value: 10.8.155.223
+              value: 10.8.156.78
             - name: DB_USER
               value: user
             - name: DB_PASS
